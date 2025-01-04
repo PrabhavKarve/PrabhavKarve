@@ -6,7 +6,8 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/prabhav-karve-11300a145/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:pk6004@g.rit.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  </p>
+    <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+</p>
   <div>
       <h3 style="font-family: Cambria; font-size: 16px;">About Me:</h3>
       <small>
