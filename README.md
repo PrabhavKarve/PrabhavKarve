@@ -14,7 +14,7 @@
         <ul>
           <li>💼 Currently, a CS grad student @Rochester Institute of Technology</li>
           <li>💙 Previous Associate Software Engineer @Accenture</li>
-          <li>❤️ I love to build software, play pool or go gym</li>
+          <li>❤️ I love to build software, play pool or go to gym</li>
           <li>📫 Email me me at: <a href="mailto:karve.prabhav@gmail.com">karve.prabhav@gmail.com</a></li>
         </ul>
       </small>
