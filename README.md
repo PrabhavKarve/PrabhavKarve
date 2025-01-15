@@ -7,6 +7,8 @@
     <a href="https://www.linkedin.com/in/prabhav-karve-11300a145/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:pk6004@g.rit.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
     <a href="https://6598e786b1117097fe48cfeb--visionary-wisp-961a03.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+
 </p>
   <div>
       <h3 style="font-family: Cambria; font-size: 16px;">About Me:</h3>
