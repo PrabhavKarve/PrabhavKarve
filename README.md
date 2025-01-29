@@ -1,4 +1,6 @@
 <h1 align="center" style="font-family: Cambria;">
+    <!-- Banner -->
+<img src="https://github.com/urvashi1206/mariogif/blob/main/git.png">
     <b>Welcome, I am Prabhav Karve.</b>
     <img src="Hi.gif" width="30px">
   </h1>
@@ -8,9 +10,6 @@
     <a href="mailto:pk6004@g.rit.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
     <a href="https://6598e786b1117097fe48cfeb--visionary-wisp-961a03.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
       <a href="https://leetcode.com/u/Prabhav724/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-
-<!-- Banner -->
-<img src="https://github.com/urvashi1206/mariogif/blob/main/git.png">
 
 </p>
   <div>
