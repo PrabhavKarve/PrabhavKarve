@@ -24,7 +24,6 @@
       </small>
     </div>
   <h3 style="font-family: Cambria; font-size: 16px;">Skills:</h3>
-  <h4>Languages:</h4>
   <p align="left"> 
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
@@ -37,11 +36,10 @@
 ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/yashmahaja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashmahaja" height="30" width="30" /></a>
-<a href="https://discord.gg/_yashmahaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yashmahaja" height="30" width="40" /></a>
-<a href="https://x.com/yashmahaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashmahaja" height="30" width="30" /></a>
 <a href="https://github.com/yashmahaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="yashmahaja" height="30" width="30" /></a>
-<a href="https://leetcode.com/yashmahaja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="yashmahaja" height="30" width="30" /></a>
-<a href="https://your-portfolio-link.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="yashmahaja" height="30" width="30" /></a>
+<a href="mailto:yashmahaja@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="yashmahaja" height="30" width="30" /></a>
+<a href="https://link.springer.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/springer.svg" alt="yashmahaja" height="30" width="30" /></a>
+
 </p>
 
 
