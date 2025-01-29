@@ -32,17 +32,6 @@
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"></a>
   </p>
 
-<!-- Connect -->
-## Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/yashmahaja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashmahaja" height="30" width="30" /></a>
-<a href="https://github.com/yashmahaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="yashmahaja" height="30" width="30" /></a>
-<a href="mailto:yashmahaja@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="yashmahaja" height="30" width="30" /></a>
-<a href="https://link.springer.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/springer.svg" alt="yashmahaja" height="30" width="30" /></a>
-
-</p>
-
-
 <!-- Skills -->
 ## Languages and Tools:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
