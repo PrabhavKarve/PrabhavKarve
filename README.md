@@ -24,7 +24,31 @@
       </small>
     </div>
   <h3 style="font-family: Cambria; font-size: 16px;">Skills:</h3>
-  <!-- Skills -->
+  <!-- About Me -->
+## About Me
+I am currently pursuing a Master of Science in Computer Science at the Rochester Institute of Technology, with a focus on full-stack development and backend technologies. My experience spans both frontend development using React.js and backend systems using Spring Boot and Node.js. I specialize in building efficient, scalable applications with a strong emphasis on security and performance optimization.
+
+During my time at Nihilent Ltd., I automated an OCR-based ETL pipeline for fraud detection, utilizing Python and Azure Form Recognizer to extract key fields from invoice images stored in AWS S3. This solution processed over 500 daily PDFs, reducing processing time by 63% and significantly improving data accuracy.
+
+I am also experienced in cloud technologies such as AWS and Docker, ensuring scalable infrastructure for my applications. Some of my recent projects include developing a full-stack e-commerce platform and a content management application using modern frameworks.
+
+Technical skills: Python, Java, React.js, Spring Boot, Node.js, MySQL, MongoDB, Firebase, REST API, AWS, Docker, Linux
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmahaja&label=Profile%20views&color=0e75b6&style=flat" alt="yashmahaja" /> </p>
+
+
+- 💬 Ask me about **Software Engineering**
+
+- 📫 How to reach me **yashmahajan0521@gmail.com**
+
+<!-- Connect -->
+## Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/yashmahaja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashmahaja" height="30" width="30" /></a>
+<a href="https://discord.gg/_yashmahaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yashmahaja" height="30" width="40" /></a>
+<a href="https://x.com/yashmahaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashmahaja" height="30" width="30" /></a>
+</p>
+
 <!-- Skills -->
 ## Languages and Tools:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
