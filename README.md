@@ -9,6 +9,9 @@
     <a href="https://6598e786b1117097fe48cfeb--visionary-wisp-961a03.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
       <a href="https://leetcode.com/u/Prabhav724/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 
+<!-- Banner -->
+<img src="https://github.com/urvashi1206/mariogif/blob/main/git.png">
+
 </p>
   <div>
       <h3 style="font-family: Cambria; font-size: 16px;">About Me:</h3>
@@ -23,6 +26,7 @@
     </div>
   <h3 style="font-family: Cambria; font-size: 16px;">Skills:</h3>
   <!-- Skills -->
+<!-- Skills -->
 ## Languages and Tools:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
